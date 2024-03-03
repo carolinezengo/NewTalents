@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\PC\source\repos\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\PC\source\repos\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
