@@ -17,6 +17,7 @@ namespace UnitTest1
         [Theory]
         [InlineData (1, 2, 3)]
         [InlineData (4, 5, 9)]
+        [InlineData(5, 5, 10)]
         public void TestSoma(int val1, int val2, int resultado)
         {
             Calculadora calc = construirClasse();
@@ -27,6 +28,7 @@ namespace UnitTest1
         [Theory]
         [InlineData(3, 2, 1)]
         [InlineData(7, 5, 2)]
+        [InlineData(7, 2, 5)]
         public void TestSubtrair(int val1, int val2, int resultado)
         {
             Calculadora calc = construirClasse();
@@ -36,6 +38,7 @@ namespace UnitTest1
         [Theory]
         [InlineData(1, 2, 2)]
         [InlineData(4, 5, 20)]
+        [InlineData(5, 5, 25)]
         public void TestMultiplicacao(int val1, int val2, int resultado)
         {
             Calculadora calc = construirClasse();
@@ -45,6 +48,7 @@ namespace UnitTest1
         [Theory]
         [InlineData(6, 2, 3)]
         [InlineData(5, 5, 1)]
+        [InlineData(4, 2, 2)]
         public void TestDividir(int val1, int val2, int resultado)
         {
             Calculadora calc = construirClasse();
